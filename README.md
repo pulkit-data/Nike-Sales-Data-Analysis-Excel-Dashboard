@@ -38,11 +38,11 @@ Prioritize digital marketing campaigns for **Women’s Lifestyle** products in t
 ---
 
 ## Files Included
-- `Nike_Sales_Dashboard.xlsx` → Cleaned data + Interactive Dashboard
+- `Nike_Sales_Clean.xlsx` → Cleaned data + Interactive Dashboard
 - Dashboard screenshots
 
 ---
 
 ## Author
-[Your Name]  
+Pulkit Chauhan  
 Aspiring Data Analyst
